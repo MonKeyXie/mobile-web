@@ -25,11 +25,11 @@ a{
 }
 input,textarea{
     border: none;
-    /*选中none*/
+    /*选中none(选中无外边框)*/
     outline: none;
     /*不允许改变尺寸*/
     resize: none;
-    /*元素的外观  none没有任何外观*/
+    /*元素的外观  none没有任何外观(移动端有默认外观)*/
     -webkit-appearance: none;
 }
 
