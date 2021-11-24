@@ -14,11 +14,13 @@ body{
 .jd_search{
     width: 100%;
     height: 40px;
-    background-color: rgba(0, 0, 0, .4);
     position: fixed;
     left: 0;
     top: 0;
     z-index: 1000;
+}
+.jd_search_box {
+    background-color: rgba(0, 0, 0, .4);
 }
 /*内容居中*/
 .jd_search .jd_search_box{
