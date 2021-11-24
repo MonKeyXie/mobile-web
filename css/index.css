@@ -19,13 +19,10 @@ body{
     top: 0;
     z-index: 1000;
 }
-.jd_search_box {
-    background-color: rgba(0, 0, 0, .4);
-}
 /*内容居中*/
 .jd_search .jd_search_box{
     height: 40px;
-    background: rgba(201,21,35,0);
+    background: rgba(0, 0, 0, .4);
     min-width: 320px;
     max-width: 640px;
     width: 100%;
