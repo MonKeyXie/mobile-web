@@ -22,7 +22,7 @@ body{
 /*内容居中*/
 .jd_search .jd_search_box{
     height: 40px;
-    background: rgba(0, 0, 0, .4);
+    background: rgba(0, 0, 0, .4)!important;
     min-width: 320px;
     max-width: 640px;
     width: 100%;
